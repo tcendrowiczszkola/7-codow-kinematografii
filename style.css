@@ -4,13 +4,13 @@
 }
 
 @media screen and (max-width:600px) {
-  nav {background-color: #7CBCB9;}
+  nav {display: none;}
   
   }
 
 @media screen and (max-width:1200px) {
-  main {width: 80%; float: left;}
-  a {color: #7CBCB9;}
+  main {width: 50%; float: left;}
+  nav {background-color: #7CBCB9;}
 
   }
 
