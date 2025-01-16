@@ -17,6 +17,22 @@
         float: left;
     }
 }
+
+@media (max-width: 1200px)
+{
+    nav
+    {
+        width: 20%;
+        float: right;
+    }
+    
+    main
+    {
+        width: 80%;
+        float: left;
+    }
+}
+
 header, footer 
 {
     background-color: #CF7CE9;
