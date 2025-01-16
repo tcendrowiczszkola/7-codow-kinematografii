@@ -9,8 +9,8 @@
   }
 
 @media screen and (max-width:1200px) {
-  main {width: 50%; float: left;}
-  nav {width: 50%; float: left;}
+  main {width: 80%; float: left;}
+  a {color: #7CBCB9;}
 
   }
 
