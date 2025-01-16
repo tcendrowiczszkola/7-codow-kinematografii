@@ -3,12 +3,12 @@
     text-align: center;
 }
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:600px) {
   nav {display: none;}
   
   }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:1200px) {
   main {width: 50%; float: left;}
   nav {width: 50%; float: left;}
 
