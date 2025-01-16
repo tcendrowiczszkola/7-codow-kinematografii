@@ -3,6 +3,20 @@
     text-align: center;
 }
 
+@media (max-width: 600px)
+{
+    nav
+    {
+        width: 20%;
+        float: right;
+    }
+    
+    main
+    {
+        width: 80%;
+        float: left;
+    }
+}
 header, footer 
 {
     background-color: #CF7CE9;
