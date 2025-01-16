@@ -1,4 +1,4 @@
-const images = ['ruchomyzamekhauru.png', 'kamienienaszaniec.png', 'herkules.png', 'to.png', 'spiritedaway.png', 'dexter.png', 'sherlock.png'];
+const images = ['img/ruchomyzamekhauru.png', 'img/kamienienaszaniec.png', 'img/herkules.png', 'img/to.png', 'img/spiritedaway.png', 'img/dexter.png', 'img/sherlock.png'];
 let currentIndex = 0;
 function changeImage(){
 const changeImage =
