@@ -5,7 +5,7 @@
 
 @media screen and (max-width:1200px) {
   main {background-color:lightblue; width:100%; }
-  nav {display:none;} 
+  header,footer {height:150px; fint-size: 0.2vw;} 
   }
 
 @media screen and (max-width:600px) {
