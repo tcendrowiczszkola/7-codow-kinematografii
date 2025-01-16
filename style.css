@@ -4,8 +4,9 @@
 }
 
 @media screen and (max-width:1200px) {
-  main {background-color:lightblue; width:100%; }
-  header,footer {height:150px; fint-size: 0.2vw;} 
+  main {background-color:lightblue; width:60%; }
+  nav {width: 35%;}
+  footer {display: none;} 
   }
 
 @media screen and (max-width:600px) {
