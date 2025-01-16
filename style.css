@@ -1,0 +1,106 @@
+* 
+{
+    text-align: center;
+}
+
+header, footer 
+{
+    background-color: #CF7CE9;
+    color: #E8DB98;
+    width: 100%;
+    height: auto;
+    font-size: 3vw;
+    padding: 2px;
+    clear: both;
+}
+
+nav
+{
+    background-color: #CC89B1;
+    color: #FCF9EE;
+    font-size: 2vw;
+    padding: 3px;
+}
+
+main
+{
+    overflow-y: scroll;
+    background-color: #FCF9EE;
+    color: #7CBCB9;
+    font-size: 2vw;
+    padding: 5px;
+}
+
+table
+{
+    float: left;
+    width: 45%;
+    margin-right: 2,5%;
+    border-color: #CF7CE9;
+    border-width: 2px;
+    border-style: groove;
+}
+
+p
+{
+    float: right;
+    width: 45%;
+    margin-left: 2,5%;
+    margin: auto;
+}
+
+a 
+{
+    color:#FCF9EE;
+    text-decoration: none;
+}
+
+h1 
+{
+    clear: both;
+    font-size:5vw;
+}
+
+li 
+{
+    text-align:left;
+    width: 45%;
+    margin: auto;
+}
+
+ul
+{
+    width: 45%;
+    margin: auto;
+    margin-top: 550px;
+}
+
+.filmweb
+{
+    color: #7CBCB9;
+    font-size: 2vw;
+    text-decoration: none;
+}
+
+div
+{
+    animation-name: logo;
+    animation-duration: 2s;
+}
+
+@keyframes logo 
+{
+    0%{color:#CF7CE9;}
+    25%{color: #CC89B1;}
+    100%{color: #E8DB98;}
+}
+
+div
+{
+    width: 100%;
+}
+
+img
+{
+    display: block;
+}
