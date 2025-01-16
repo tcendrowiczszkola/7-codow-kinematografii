@@ -3,25 +3,16 @@
     text-align: center;
 }
 
-@media (max-width: 600px)
-{
-    .item{flex: 11100%;}
-}
+@media screen and (max-width:1200px) {
+  main {background-color:lightblue; width:100%; }
+  nav {display:none;} 
+  }
 
-@media (max-width: 1200px)
-{
-    nav
-    {
-        width: 20%;
-        float: right;
-    }
-    
-    main
-    {
-        width: 80%;
-        float: left;
-    }
-}
+@media screen and (max-width:600px) {
+  main {width: 80%;}
+  nav {width: 20%;}
+
+  }
 
 header, footer 
 {
